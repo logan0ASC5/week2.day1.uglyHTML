@@ -1,0 +1,32 @@
+body{
+    background-color: rgb(53,53,53);
+    color: whitesmoke;
+}
+
+header{
+   font-size: 72px;
+   font-family: Tangerine; 
+}
+
+.top{
+    text-align: center;
+    font-size: 25px;
+    font-family: Unica One;
+}
+
+.other{
+    float: left;
+    height: 200px;
+}
+
+.text{
+    background-color: #1A1818;
+    font-family: Dosis;
+}
+
+.watch_container{
+    background-color: #1A1818;
+    border: #FDEFA6 solid;
+    border-width: 2px;
+    border-radius: 13px;
+}
